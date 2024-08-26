@@ -1,65 +1,12 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![Cuplikan layar 2024-08-26 210531](https://github.com/user-attachments/assets/c0115342-f07c-4c78-95bc-e80418e37ef7)
+![Cuplikan layar 2024-08-26 210548](https://github.com/user-attachments/assets/f491489c-7ffa-424a-a761-85c908a0c4d4)
+![Cuplikan layar 2024-08-26 210623](https://github.com/user-attachments/assets/754f4d5c-41ff-4bd0-af7a-dc1ca9b5a2bc)
+![Cuplikan layar 2024-08-26 210639](https://github.com/user-attachments/assets/f5224aa3-cfac-4532-aa4d-f68ecb47cac3)
+![Cuplikan layar 2024-08-26 220103](https://github.com/user-attachments/assets/b6a8bc26-67d1-41f8-8356-56c7ba694dca)
+![Cuplikan layar 2024-08-26 220130](https://github.com/user-attachments/assets/9219ffad-4cc1-4b29-953b-d162d074173f)
+![Cuplikan layar 2024-08-26 220148](https://github.com/user-attachments/assets/abd411f8-9a62-4c4b-ab00-644aa5adabec)
+![Cuplikan layar 2024-08-26 221149](https://github.com/user-attachments/assets/eeb78386-7943-4b0c-b3b1-7d5c9275e47e)
+![Cuplikan layar 2024-08-26 221159](https://github.com/user-attachments/assets/d8ac05e9-037a-4277-b8db-fa5cfa8ed937)
+![Cuplikan layar 2024-08-26 221220](https://github.com/user-attachments/assets/a0727e2e-3e71-480e-b1e3-05bfb2bd1d01)
+![Cuplikan layar 2024-08-26 221239](https://github.com/user-attachments/assets/270a0408-2abf-4fad-9ef5-0280adb6d4df)
+![Cuplikan layar 2024-08-26 221309](https://github.com/user-attachments/assets/b69a9e45-e6cb-4012-b0b0-d416082fd9d8)
